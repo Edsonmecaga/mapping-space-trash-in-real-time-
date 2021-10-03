@@ -1,0 +1,21 @@
+.question{
+    text-align: left;
+}
+.question h3{
+    text-align: justify;
+    padding: 20px;
+}
+
+.fact_img{
+    
+    width: 200px;
+    height: 200px;
+    object-fit: cover;
+    border-radius: 50%;
+    margin: auto;
+    margin-bottom: 20px;
+    align-items: center;
+    padding:7px;
+    
+}
+
